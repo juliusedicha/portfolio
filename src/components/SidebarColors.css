@@ -1,0 +1,13 @@
+.sidebar-body {
+  background-color: var(--sidebar-background-color);
+}
+
+.sidebar-content {
+  background-color: var(--sidebar-content-background-color);
+  color: var(--sidebar-content-text-color);
+}
+
+.sidebar-sections {
+  background-color: var(--sidebar-sections-background-color);
+  color: var(--sidebar-sections-text-color);
+}
