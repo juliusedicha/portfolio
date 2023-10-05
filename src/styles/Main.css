@@ -1,4 +1,4 @@
-/* main.css */
+
 header {
     background-color: #333;
     color: #fff;
@@ -6,7 +6,7 @@ header {
     text-align: center;
   }
   
-  /* Add more styles for other components as needed */
+  
 
   .app-container {
     display: flex;

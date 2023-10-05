@@ -1,5 +1,5 @@
 import React from 'react';
-import './Contact.css'; // Path to the CSS file
+import './Contact.css'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter, faLinkedin, faGithub, faWhatsapp, faFacebook} from '@fortawesome/free-brands-svg-icons';
 
